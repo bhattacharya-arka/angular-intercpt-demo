@@ -177,5 +177,3 @@ DcInterceptor modified URL: .../todos/1ac-dc
   - Error: Error message
 
 ---
-
-This documentation provides a comprehensive overview of the project's architecture, implementation details, and key Angular concepts demonstrated. It serves as both a technical reference and KT material.
